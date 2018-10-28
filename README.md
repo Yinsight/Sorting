@@ -1,3 +1,3 @@
 # Sorting
 
-Java Implementation of Quick Sort and Radix Sort
+Soring test on Quick Sort and Radix Sort
